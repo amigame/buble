@@ -1,3 +1,3 @@
 # Bublé
 
-Bubble bobble, roguelike. 
+Bubble Bobble, roguelike. 
